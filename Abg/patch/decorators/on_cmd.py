@@ -101,7 +101,7 @@ def command(
                     pyrogram.enums.ChatType.SUPERGROUP,
             ):
                 return await message.reply_text(
-                    "This command can be used in supergroups only."
+                    "ᴛʜɪs ᴄᴏᴍᴍᴀɴᴅ ᴄᴀɴ ʙᴇ ᴜsᴇᴅ ɪɴ sᴜᴘᴇʀɢʀᴏᴜᴘs ᴏɴʟʏ."
                 )
 
             if self_admin:
